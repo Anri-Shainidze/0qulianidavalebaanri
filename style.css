@@ -144,3 +144,24 @@ p{
     justify-content: center;
     flex-direction: column;
 }
+.grayborder{
+    border-color: #eef0f3;
+    background-color: #eef0f3;
+    width: 1460px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+.fordis{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    gap: 200px;
+}
+.idk{
+    display: flex;
+    align-items: center;
+}
