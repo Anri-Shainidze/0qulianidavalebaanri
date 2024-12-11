@@ -1,0 +1,232 @@
+body{
+    height: 100vh;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+h1{
+    color: #4D4D4D;
+    font-size: 100%;
+}
+h2{
+    color: #4D4D4D;
+    font-size: 250%;
+}
+h3{
+    color: green;
+    font-size: 250%;
+}
+h4{
+    color:#4D4D4D;
+    font-size: 150%;
+}
+.forh4{
+    color:#4D4D4D;
+    font-size: 150%;
+    text-align: center;
+}
+.undericon{
+    font-size: 150%;
+    text-align: center;
+}
+p{
+    color: #717171;
+}
+.textalign1{
+    text-align: center;
+}
+.textalign2{
+    text-align: center;
+}
+.textalign3{
+    text-align: center;
+}
+.forgap{
+    display: flex;
+    gap: 20px;
+}
+.firstbutton{
+    color: white;
+    background-color: #4CAF4F;
+    border-color: #4CAF4F;
+    width: 140px;
+    border-radius: 5px;
+}
+.secondbutton{
+    color: white;
+    background-color: #4CAF4F;
+    border-color: #4CAF4F;
+    width: 110px;
+    height: 45px;
+    border-radius: 5px;
+}
+.image{
+    margin-top: 20px;
+    border-color: #eef0f3;
+    background-color: #eef0f3;
+    width: 1460px;
+    height: 450px;
+}
+.firstborder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+
+}
+.margin1{
+    margin-top: 3%;
+}
+.margin2{
+    margin-top: 4%;
+}
+.clients{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+.manage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.containergrid{
+ 
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-areas: 
+    "div1 div2 div3";
+    gap:120px;
+}
+.child1{
+    grid-area: div1;
+    background-color: white;
+    width: 300px;
+    height: 282px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.child2{
+    grid-area: div2;
+    background-color: white;
+    width: 300px;
+    height: 282px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.child3{
+    grid-area: div3;
+    background-color: white;
+    width: 300px;
+    height: 282px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.grayborder{
+    border-color: #eef0f3;
+    background-color: #eef0f3;
+    width: 1460px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+.fordis{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    gap: 200px;
+}
+.idk{
+    display: flex;
+    align-items: center;
+}
+.p1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.oneone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.displayflex1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.for1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    
+}
+.for2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.for3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.border222{
+    background-color: #F5F7FA;
+    background-color: #F5F7FA;
+    width: 1455px;
+    height: 200px;
+
+
+
+}
+.text888{
+    text-align: center;
+    color: black;
+}
+.fourthbutton{
+    color: white;
+    background-color: #4CAF4F;
+    border-color: #4CAF4F;
+    width: 130px;
+    height: 45px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 658px;
+
+}
+
