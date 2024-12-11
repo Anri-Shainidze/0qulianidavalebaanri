@@ -165,3 +165,68 @@ p{
     display: flex;
     align-items: center;
 }
+.p1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.oneone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.displayflex1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.for1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    
+}
+.for2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.for3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.border222{
+    background-color: #F5F7FA;
+    background-color: #F5F7FA;
+    width: 1455px;
+    height: 200px;
+
+
+
+}
+.text888{
+    text-align: center;
+    color: black;
+}
+.fourthbutton{
+    color: white;
+    background-color: #4CAF4F;
+    border-color: #4CAF4F;
+    width: 130px;
+    height: 45px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 658px;
+
+}
+
